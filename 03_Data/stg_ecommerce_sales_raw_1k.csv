@@ -1,0 +1,1001 @@
+"order_id","order_date","cleaned_customer","cleaned_region","cleaned_category","cleaned_sales","cleaned_profit"
+"ORD-1001","2025-01-01","Rahul Dev","West","Other Categories",4791.16,861.02
+"ORD-1002","2025-01-02","Amit Soni","East","Furniture",3106.99,404.86
+"ORD-1003","2025-01-03","Sneha","South","Other Categories",4436.13,494.84
+"ORD-1004","2025-01-04","Amit Soni","West","Furniture",4626.91,270.75
+"ORD-1005","2025-01-05","Vikram","North","Electronics",4832.17,159.13
+"ORD-1006","2025-01-06","Rahul Dev","South","Other Categories",1351.50,107.25
+"ORD-1007","2025-01-07","Rahul Dev","West","Other Categories",301.51,170.51
+"ORD-1008","2025-01-08","Divyansh","East","Other Categories",956.36,722.49
+"ORD-1009","2025-01-09","Sneha","East","Furniture",419.27,35.47
+"ORD-1010","2025-01-10","Sneha","West","Furniture",4810.76,798.85
+"ORD-1011","2025-01-11","Sneha","East","Other Categories",4030.53,178.33
+"ORD-1012","2025-01-12","Sneha","South","Other Categories",1172.70,779.16
+"ORD-1013","2025-01-13","Sneha","North","Furniture",346.74,226.32
+"ORD-1014","2025-01-14","Sneha","East","Other Categories",3336.97,804.93
+"ORD-1015","2025-01-15","Divyansh","West","Electronics",674.54,96.05
+"ORD-1016","2025-01-16","Amit Soni","South","Other Categories",4051.37,650.27
+"ORD-1017","2025-01-17","Vikram","South","Electronics",4547.59,725.80
+"ORD-1018","2025-01-18","Sneha","North","Other Categories",4090.04,175.41
+"ORD-1019","2025-01-19","Rahul Dev","East","Other Categories",1637.47,268.23
+"ORD-1020","2025-01-20","Sneha","West","Furniture",2184.56,295.45
+"ORD-1021","2025-01-21","Rahul Dev","East","Other Categories",3483.74,601.59
+"ORD-1022","2025-01-22","Divyansh","South","Other Categories",1575.85,918.54
+"ORD-1023","2025-01-23","Rahul Dev","South","Electronics",2380.74,655.11
+"ORD-1024","2025-01-24","Vikram","South","Furniture",2161.20,813.27
+"ORD-1025","2025-01-25","Sneha","East","Other Categories",3176.91,77.98
+"ORD-1026","2025-01-26","Rahul Dev","East","Electronics",1054.58,656.96
+"ORD-1027","2025-01-27","Sneha","South","Furniture",3254.36,364.51
+"ORD-1028","2025-01-28","Rahul Dev","East","Other Categories",599.93,195.93
+"ORD-1029","2025-01-29","Sneha","North","Electronics",4962.39,408.23
+"ORD-1030","2025-01-30","Amit Soni","North","Electronics",1697.87,811.24
+"ORD-1031","2025-01-31","Rahul Dev","West","Other Categories",833.01,884.91
+"ORD-1032","2025-02-01","Vikram","South","Furniture",4501.80,781.88
+"ORD-1033","2025-02-02","Sneha","North","Other Categories",1558.61,352.47
+"ORD-1034","2025-02-03","Rahul Dev","East","Other Categories",3523.23,858.96
+"ORD-1035","2025-02-04","Sneha","North","Furniture",2721.18,79.42
+"ORD-1036","2025-02-05","Sneha","South","Other Categories",363.79,845.59
+"ORD-1037","2025-02-06","Rahul Dev","South","Other Categories",665.78,845.33
+"ORD-1038","2025-02-07","Divyansh","West","Furniture",2393.94,574.78
+"ORD-1039","2025-02-08","Rahul Dev","East","Furniture",1580.75,302.93
+"ORD-1040","2025-02-09","Vikram","East","Furniture",2167.45,338.46
+"ORD-1041","2025-02-10","Vikram","North","Furniture",3729.47,322.43
+"ORD-1042","2025-02-11","Divyansh","East","Other Categories",5016.36,210.71
+"ORD-1043","2025-02-12","Vikram","East","Other Categories",1420.64,1003.08
+"ORD-1044","2025-02-13","Sneha","East","Other Categories",1219.60,504.92
+"ORD-1045","2025-02-14","Divyansh","North","Other Categories",2597.27,665.73
+"ORD-1046","2025-02-15","Amit Soni","North","Other Categories",4473.37,72.90
+"ORD-1047","2025-02-16","Rahul Dev","West","Other Categories",2777.02,295.52
+"ORD-1048","2025-02-17","Divyansh","West","Furniture",561.15,939.96
+"ORD-1049","2025-02-18","Divyansh","East","Other Categories",773.00,830.23
+"ORD-1050","2025-02-19","Rahul Dev","North","Electronics",3063.75,746.91
+"ORD-1051","2025-02-20","Rahul Dev","South","Furniture",2013.63,40.70
+"ORD-1052","2025-02-21","Amit Soni","South","Furniture",173.54,714.99
+"ORD-1053","2025-02-22","Divyansh","South","Furniture",2881.62,64.14
+"ORD-1054","2025-02-23","Amit Soni","East","Electronics",1839.08,54.81
+"ORD-1055","2025-02-24","Sneha","North","Furniture",3482.61,212.34
+"ORD-1056","2025-02-25","Amit Soni","West","Furniture",2485.23,150.52
+"ORD-1057","2025-02-26","Divyansh","East","Furniture",4346.35,577.95
+"ORD-1058","2025-02-27","Divyansh","South","Furniture",795.95,237.01
+"ORD-1059","2025-02-28","Divyansh","South","Furniture",951.64,271.89
+"ORD-1060","2025-03-01","Vikram","East","Furniture",681.96,833.35
+"ORD-1061","2025-03-02","Divyansh","East","Other Categories",4289.07,850.92
+"ORD-1062","2025-03-03","Sneha","South","Other Categories",1372.74,858.00
+"ORD-1063","2025-03-04","Amit Soni","South","Furniture",4646.54,61.68
+"ORD-1064","2025-03-05","Divyansh","West","Other Categories",1719.72,183.29
+"ORD-1065","2025-03-06","Divyansh","West","Furniture",4374.19,872.07
+"ORD-1066","2025-03-07","Vikram","East","Other Categories",4612.01,501.16
+"ORD-1067","2025-03-08","Rahul Dev","North","Electronics",500.71,180.99
+"ORD-1068","2025-03-09","Rahul Dev","South","Furniture",3151.39,602.09
+"ORD-1069","2025-03-10","Vikram","West","Electronics",3469.00,276.94
+"ORD-1070","2025-03-11","Sneha","West","Electronics",291.44,267.22
+"ORD-1071","2025-03-12","Vikram","West","Electronics",4676.44,534.86
+"ORD-1072","2025-03-13","Divyansh","South","Other Categories",1380.16,983.43
+"ORD-1073","2025-03-14","Divyansh","South","Other Categories",3527.57,431.85
+"ORD-1074","2025-03-15","Sneha","South","Other Categories",1453.76,553.44
+"ORD-1075","2025-03-16","Rahul Dev","East","Other Categories",3572.23,765.75
+"ORD-1076","2025-03-17","Vikram","East","Furniture",765.24,653.30
+"ORD-1077","2025-03-18","Sneha","South","Other Categories",1799.42,259.73
+"ORD-1078","2025-03-19","Sneha","South","Other Categories",3455.23,94.93
+"ORD-1079","2025-03-20","Divyansh","South","Other Categories",646.79,761.11
+"ORD-1080","2025-03-21","Rahul Dev","South","Furniture",529.62,124.49
+"ORD-1081","2025-03-22","Sneha","East","Furniture",117.05,660.40
+"ORD-1082","2025-03-23","Rahul Dev","South","Other Categories",1085.65,817.30
+"ORD-1083","2025-03-24","Rahul Dev","West","Furniture",916.37,174.17
+"ORD-1084","2025-03-25","Rahul Dev","East","Other Categories",3670.93,48.83
+"ORD-1085","2025-03-26","Rahul Dev","South","Other Categories",2132.45,346.36
+"ORD-1086","2025-03-27","Sneha","East","Other Categories",2173.96,699.93
+"ORD-1087","2025-03-28","Divyansh","South","Furniture",3469.40,557.26
+"ORD-1088","2025-03-29","Divyansh","North","Other Categories",2222.27,18.05
+"ORD-1089","2025-03-30","Amit Soni","East","Furniture",2683.33,197.15
+"ORD-1090","2025-03-31","Sneha","East","Other Categories",1442.48,616.88
+"ORD-1091","2025-04-01","Rahul Dev","West","Electronics",3085.23,638.22
+"ORD-1092","2025-04-02","Amit Soni","South","Other Categories",405.24,189.40
+"ORD-1093","2025-04-03","Amit Soni","East","Furniture",1682.21,840.68
+"ORD-1094","2025-04-04","Rahul Dev","East","Other Categories",2628.71,876.47
+"ORD-1095","2025-04-05","Vikram","South","Other Categories",875.99,649.23
+"ORD-1096","2025-04-06","Sneha","South","Furniture",3224.74,544.24
+"ORD-1097","2025-04-07","Sneha","North","Other Categories",4100.96,306.76
+"ORD-1098","2025-04-08","Divyansh","North","Electronics",1664.08,567.76
+"ORD-1099","2025-04-09","Divyansh","South","Electronics",2609.98,569.12
+"ORD-1100","2025-04-10","Rahul Dev","South","Other Categories",2576.06,668.79
+"ORD-1101","2025-04-11","Sneha","South","Other Categories",1878.80,206.43
+"ORD-1102","2025-04-12","Vikram","South","Furniture",4292.82,219.07
+"ORD-1103","2025-04-13","Sneha","East","Electronics",2955.72,232.24
+"ORD-1104","2025-04-14","Amit Soni","North","Other Categories",3406.70,938.71
+"ORD-1105","2025-04-15","Sneha","South","Furniture",3442.61,186.15
+"ORD-1106","2025-04-16","Sneha","East","Other Categories",1864.07,637.80
+"ORD-1107","2025-04-17","Amit Soni","East","Other Categories",1256.00,895.75
+"ORD-1108","2025-04-18","Rahul Dev","East","Other Categories",3815.70,883.39
+"ORD-1109","2025-04-19","Sneha","East","Other Categories",393.77,92.31
+"ORD-1110","2025-04-20","Divyansh","North","Furniture",1891.47,949.23
+"ORD-1111","2025-04-21","Amit Soni","East","Electronics",578.46,159.96
+"ORD-1112","2025-04-22","Sneha","East","Furniture",3261.92,522.50
+"ORD-1113","2025-04-23","Sneha","South","Electronics",1329.86,56.84
+"ORD-1114","2025-04-24","Divyansh","West","Other Categories",509.40,75.49
+"ORD-1115","2025-04-25","Sneha","South","Other Categories",3926.78,123.61
+"ORD-1116","2025-04-26","Sneha","South","Other Categories",3034.77,967.40
+"ORD-1117","2025-04-27","Rahul Dev","North","Other Categories",3360.59,564.74
+"ORD-1118","2025-04-28","Sneha","South","Furniture",880.61,145.88
+"ORD-1119","2025-04-29","Sneha","South","Other Categories",1397.09,529.05
+"ORD-1120","2025-04-30","Divyansh","West","Furniture",2651.76,380.98
+"ORD-1121","2025-05-01","Rahul Dev","West","Furniture",768.72,499.91
+"ORD-1122","2025-05-02","Sneha","South","Electronics",2265.58,946.09
+"ORD-1123","2025-05-03","Divyansh","East","Other Categories",1726.96,643.40
+"ORD-1124","2025-05-04","Sneha","North","Furniture",214.50,24.84
+"ORD-1125","2025-05-05","Rahul Dev","South","Furniture",4585.59,835.67
+"ORD-1126","2025-05-06","Rahul Dev","North","Other Categories",2087.32,1001.81
+"ORD-1127","2025-05-07","Rahul Dev","East","Furniture",4842.57,421.96
+"ORD-1128","2025-05-08","Amit Soni","East","Furniture",1768.40,1007.49
+"ORD-1129","2025-05-09","Sneha","North","Electronics",607.35,575.86
+"ORD-1130","2025-05-10","Sneha","West","Other Categories",4849.10,247.27
+"ORD-1131","2025-05-11","Sneha","South","Other Categories",1880.03,53.30
+"ORD-1132","2025-05-12","Sneha","North","Other Categories",2496.52,477.16
+"ORD-1133","2025-05-13","Rahul Dev","North","Other Categories",4929.58,789.06
+"ORD-1134","2025-05-14","Rahul Dev","North","Other Categories",4734.70,189.09
+"ORD-1135","2025-05-15","Rahul Dev","South","Furniture",5062.83,945.58
+"ORD-1136","2025-05-16","Sneha","East","Other Categories",3070.19,594.80
+"ORD-1137","2025-05-17","Vikram","South","Other Categories",3347.94,995.29
+"ORD-1138","2025-05-18","Amit Soni","North","Other Categories",216.40,695.02
+"ORD-1139","2025-05-19","Divyansh","West","Other Categories",2546.94,630.80
+"ORD-1140","2025-05-20","Divyansh","North","Furniture",1612.96,789.00
+"ORD-1141","2025-05-21","Rahul Dev","West","Other Categories",1041.43,596.09
+"ORD-1142","2025-05-22","Amit Soni","East","Other Categories",2170.52,514.67
+"ORD-1143","2025-05-23","Sneha","East","Other Categories",3591.67,473.55
+"ORD-1144","2025-05-24","Divyansh","East","Electronics",4367.51,116.91
+"ORD-1145","2025-05-25","Divyansh","East","Other Categories",4461.55,611.97
+"ORD-1146","2025-05-26","Rahul Dev","South","Furniture",3669.22,704.93
+"ORD-1147","2025-05-27","Divyansh","South","Furniture",4141.17,808.37
+"ORD-1148","2025-05-28","Rahul Dev","West","Other Categories",4497.27,790.38
+"ORD-1149","2025-05-29","Sneha","North","Other Categories",2913.40,521.48
+"ORD-1150","2025-05-30","Vikram","East","Other Categories",2254.47,547.00
+"ORD-1151","2025-05-31","Vikram","East","Other Categories",4143.51,827.64
+"ORD-1152","2025-06-01","Divyansh","South","Electronics",1107.11,615.08
+"ORD-1153","2025-06-02","Rahul Dev","East","Electronics",4987.69,538.67
+"ORD-1154","2025-06-03","Rahul Dev","East","Other Categories",3469.42,321.98
+"ORD-1155","2025-06-04","Sneha","East","Other Categories",3509.68,690.96
+"ORD-1156","2025-06-05","Rahul Dev","South","Furniture",2974.61,521.33
+"ORD-1157","2025-06-06","Sneha","North","Furniture",4121.20,942.11
+"ORD-1158","2025-06-07","Divyansh","South","Other Categories",1212.11,276.77
+"ORD-1159","2025-06-08","Rahul Dev","East","Furniture",4061.15,544.73
+"ORD-1160","2025-06-09","Vikram","West","Other Categories",4863.08,982.54
+"ORD-1161","2025-06-10","Divyansh","North","Other Categories",1579.27,650.01
+"ORD-1162","2025-06-11","Divyansh","West","Electronics",623.62,233.73
+"ORD-1163","2025-06-12","Divyansh","East","Other Categories",4452.85,410.87
+"ORD-1164","2025-06-13","Rahul Dev","South","Other Categories",776.64,400.05
+"ORD-1165","2025-06-14","Amit Soni","North","Electronics",1919.91,385.98
+"ORD-1166","2025-06-15","Sneha","South","Electronics",2956.71,500.70
+"ORD-1167","2025-06-16","Rahul Dev","West","Furniture",628.55,398.92
+"ORD-1168","2025-06-17","Vikram","East","Furniture",1123.92,56.86
+"ORD-1169","2025-06-18","Amit Soni","East","Furniture",3399.32,169.01
+"ORD-1170","2025-06-19","Divyansh","East","Furniture",2624.51,391.45
+"ORD-1171","2025-06-20","Sneha","South","Other Categories",2479.52,176.33
+"ORD-1172","2025-06-21","Divyansh","South","Other Categories",2268.49,982.59
+"ORD-1173","2025-06-22","Divyansh","East","Furniture",2822.06,357.25
+"ORD-1174","2025-06-23","Sneha","South","Other Categories",3858.01,789.11
+"ORD-1175","2025-06-24","Rahul Dev","South","Other Categories",2576.82,319.39
+"ORD-1176","2025-06-25","Divyansh","South","Other Categories",1655.10,542.90
+"ORD-1177","2025-06-26","Divyansh","South","Furniture",1173.34,780.25
+"ORD-1178","2025-06-27","Divyansh","East","Other Categories",4238.74,162.99
+"ORD-1179","2025-06-28","Amit Soni","East","Electronics",4976.62,506.79
+"ORD-1180","2025-06-29","Amit Soni","South","Other Categories",3258.81,583.72
+"ORD-1181","2025-06-30","Vikram","South","Furniture",4044.33,273.35
+"ORD-1182","2025-07-01","Divyansh","North","Other Categories",846.65,782.48
+"ORD-1183","2025-07-02","Sneha","East","Other Categories",136.57,259.67
+"ORD-1184","2025-07-03","Vikram","West","Other Categories",417.96,215.55
+"ORD-1185","2025-07-04","Rahul Dev","South","Electronics",4444.42,188.33
+"ORD-1186","2025-07-05","Sneha","West","Furniture",5066.59,275.04
+"ORD-1187","2025-07-06","Sneha","South","Furniture",4496.52,908.43
+"ORD-1188","2025-07-07","Divyansh","East","Furniture",2714.49,702.79
+"ORD-1189","2025-07-08","Divyansh","West","Other Categories",2351.01,942.77
+"ORD-1190","2025-07-09","Sneha","East","Furniture",1241.98,85.82
+"ORD-1191","2025-07-10","Sneha","North","Other Categories",4279.91,364.77
+"ORD-1192","2025-07-11","Vikram","South","Furniture",1207.02,331.85
+"ORD-1193","2025-07-12","Sneha","East","Other Categories",4517.01,935.52
+"ORD-1194","2025-07-13","Sneha","South","Other Categories",4350.67,459.22
+"ORD-1195","2025-07-14","Divyansh","East","Other Categories",3214.00,106.19
+"ORD-1196","2025-07-15","Rahul Dev","South","Other Categories",2934.40,484.33
+"ORD-1197","2025-07-16","Divyansh","West","Furniture",4802.09,155.09
+"ORD-1198","2025-07-17","Rahul Dev","South","Electronics",4786.14,275.42
+"ORD-1199","2025-07-18","Amit Soni","East","Other Categories",4437.90,535.00
+"ORD-1200","2025-07-19","Sneha","North","Other Categories",1172.04,720.87
+"ORD-1201","2025-07-20","Sneha","South","Furniture",2223.41,680.41
+"ORD-1202","2025-07-21","Rahul Dev","South","Furniture",1710.93,154.21
+"ORD-1203","2025-07-22","Sneha","West","Other Categories",3448.53,450.50
+"ORD-1204","2025-07-23","Divyansh","South","Other Categories",4214.83,298.19
+"ORD-1205","2025-07-24","Rahul Dev","West","Furniture",3997.11,161.69
+"ORD-1206","2025-07-25","Divyansh","East","Electronics",3460.13,760.88
+"ORD-1207","2025-07-26","Sneha","South","Furniture",1741.91,58.31
+"ORD-1208","2025-07-27","Amit Soni","East","Furniture",5086.98,693.36
+"ORD-1209","2025-07-28","Divyansh","South","Other Categories",322.23,953.10
+"ORD-1210","2025-07-29","Vikram","South","Other Categories",4967.79,965.14
+"ORD-1211","2025-07-30","Rahul Dev","South","Other Categories",1501.58,431.77
+"ORD-1212","2025-07-31","Vikram","East","Furniture",5087.17,259.22
+"ORD-1213","2025-08-01","Sneha","East","Electronics",764.89,340.35
+"ORD-1214","2025-08-02","Rahul Dev","East","Other Categories",570.91,184.15
+"ORD-1215","2025-08-03","Rahul Dev","West","Other Categories",1220.53,323.09
+"ORD-1216","2025-08-04","Sneha","East","Electronics",638.58,951.36
+"ORD-1217","2025-08-05","Amit Soni","South","Electronics",498.57,746.16
+"ORD-1218","2025-08-06","Rahul Dev","North","Furniture",3091.88,771.18
+"ORD-1219","2025-08-07","Vikram","South","Furniture",741.51,407.24
+"ORD-1220","2025-08-08","Vikram","South","Furniture",938.60,377.29
+"ORD-1221","2025-08-09","Divyansh","South","Other Categories",3989.29,588.91
+"ORD-1222","2025-08-10","Rahul Dev","West","Furniture",3833.41,754.82
+"ORD-1223","2025-08-11","Rahul Dev","South","Other Categories",2415.82,78.92
+"ORD-1224","2025-08-12","Amit Soni","South","Electronics",4297.51,779.97
+"ORD-1225","2025-08-13","Sneha","North","Furniture",4433.42,305.08
+"ORD-1226","2025-08-14","Sneha","North","Furniture",4303.11,200.99
+"ORD-1227","2025-08-15","Rahul Dev","South","Furniture",2442.28,172.39
+"ORD-1228","2025-08-16","Divyansh","South","Other Categories",4348.23,308.41
+"ORD-1229","2025-08-17","Rahul Dev","East","Other Categories",4512.67,771.54
+"ORD-1230","2025-08-18","Sneha","South","Other Categories",942.60,726.87
+"ORD-1231","2025-08-19","Sneha","East","Other Categories",627.88,961.98
+"ORD-1232","2025-08-20","Sneha","West","Furniture",899.35,434.57
+"ORD-1233","2025-08-21","Amit Soni","North","Other Categories",1560.31,832.61
+"ORD-1234","2025-08-22","Rahul Dev","West","Furniture",4508.08,811.41
+"ORD-1235","2025-08-23","Rahul Dev","West","Other Categories",4941.82,764.52
+"ORD-1236","2025-08-24","Rahul Dev","North","Other Categories",3493.87,560.18
+"ORD-1237","2025-08-25","Divyansh","South","Other Categories",3526.34,360.95
+"ORD-1238","2025-08-26","Amit Soni","East","Other Categories",3204.12,631.53
+"ORD-1239","2025-08-27","Sneha","North","Electronics",4305.52,779.37
+"ORD-1240","2025-08-28","Vikram","East","Electronics",2558.41,918.38
+"ORD-1241","2025-08-29","Sneha","West","Other Categories",4021.94,311.15
+"ORD-1242","2025-08-30","Sneha","South","Other Categories",4095.22,399.25
+"ORD-1243","2025-08-31","Divyansh","South","Other Categories",4637.67,356.40
+"ORD-1244","2025-09-01","Divyansh","East","Other Categories",3783.98,27.28
+"ORD-1245","2025-09-02","Vikram","East","Other Categories",1510.30,307.80
+"ORD-1246","2025-09-03","Vikram","West","Other Categories",2202.83,30.32
+"ORD-1247","2025-09-04","Sneha","South","Furniture",4951.41,107.50
+"ORD-1248","2025-09-05","Sneha","North","Furniture",3773.59,767.50
+"ORD-1249","2025-09-06","Sneha","South","Electronics",4267.10,842.70
+"ORD-1250","2025-09-07","Divyansh","South","Other Categories",1934.84,675.25
+"ORD-1251","2025-09-08","Rahul Dev","West","Furniture",3976.34,772.59
+"ORD-1252","2025-09-09","Divyansh","West","Furniture",4174.72,611.69
+"ORD-1253","2025-09-10","Divyansh","North","Furniture",4853.50,286.52
+"ORD-1254","2025-09-11","Rahul Dev","North","Furniture",5048.91,561.13
+"ORD-1255","2025-09-12","Rahul Dev","South","Other Categories",1087.26,75.95
+"ORD-1256","2025-09-13","Rahul Dev","South","Furniture",3055.52,570.77
+"ORD-1257","2025-09-14","Sneha","East","Electronics",124.11,294.01
+"ORD-1258","2025-09-15","Divyansh","West","Furniture",3154.45,893.34
+"ORD-1259","2025-09-16","Divyansh","East","Other Categories",4107.30,926.92
+"ORD-1260","2025-09-17","Amit Soni","North","Other Categories",2107.74,70.66
+"ORD-1261","2025-09-18","Rahul Dev","West","Other Categories",1467.38,349.36
+"ORD-1262","2025-09-19","Vikram","South","Other Categories",740.45,44.26
+"ORD-1263","2025-09-20","Amit Soni","East","Electronics",4845.42,705.55
+"ORD-1264","2025-09-21","Amit Soni","East","Other Categories",3413.39,610.49
+"ORD-1265","2025-09-22","Amit Soni","East","Other Categories",2949.65,49.76
+"ORD-1266","2025-09-23","Divyansh","East","Furniture",2624.44,692.06
+"ORD-1267","2025-09-24","Sneha","East","Other Categories",3284.59,187.49
+"ORD-1268","2025-09-25","Rahul Dev","East","Furniture",1729.74,972.49
+"ORD-1269","2025-09-26","Sneha","East","Furniture",2116.37,693.96
+"ORD-1270","2025-09-27","Rahul Dev","East","Electronics",2485.80,269.36
+"ORD-1271","2025-09-28","Divyansh","East","Other Categories",1438.13,79.82
+"ORD-1272","2025-09-29","Divyansh","East","Other Categories",4784.54,465.10
+"ORD-1273","2025-09-30","Rahul Dev","South","Furniture",998.30,942.12
+"ORD-1274","2025-10-01","Amit Soni","South","Other Categories",4810.89,268.24
+"ORD-1275","2025-10-02","Sneha","South","Furniture",3351.68,402.92
+"ORD-1276","2025-10-03","Amit Soni","North","Electronics",3059.70,294.16
+"ORD-1277","2025-10-04","Sneha","South","Other Categories",4098.90,987.39
+"ORD-1278","2025-10-05","Amit Soni","North","Furniture",1289.46,402.25
+"ORD-1279","2025-10-06","Rahul Dev","North","Electronics",4033.89,764.42
+"ORD-1280","2025-10-07","Divyansh","West","Other Categories",4707.46,786.62
+"ORD-1281","2025-10-08","Vikram","East","Other Categories",4613.58,542.78
+"ORD-1282","2025-10-09","Vikram","East","Other Categories",1954.75,560.39
+"ORD-1283","2025-10-10","Sneha","West","Furniture",1922.28,251.65
+"ORD-1284","2025-10-11","Vikram","North","Electronics",240.66,331.51
+"ORD-1285","2025-10-12","Rahul Dev","South","Other Categories",4939.21,122.10
+"ORD-1286","2025-10-13","Vikram","South","Other Categories",1921.30,499.54
+"ORD-1287","2025-10-14","Divyansh","West","Other Categories",4973.81,293.18
+"ORD-1288","2025-10-15","Sneha","South","Furniture",2387.33,66.95
+"ORD-1289","2025-10-16","Divyansh","North","Furniture",1350.95,438.77
+"ORD-1290","2025-10-17","Amit Soni","North","Furniture",2987.42,980.60
+"ORD-1291","2025-10-18","Rahul Dev","East","Furniture",4102.46,674.06
+"ORD-1292","2025-10-19","Sneha","South","Other Categories",4258.53,857.63
+"ORD-1293","2025-10-20","Divyansh","North","Furniture",4783.38,890.35
+"ORD-1294","2025-10-21","Divyansh","West","Furniture",1107.01,175.48
+"ORD-1295","2025-10-22","Vikram","East","Other Categories",4991.26,621.42
+"ORD-1296","2025-10-23","Vikram","East","Other Categories",4242.13,471.84
+"ORD-1297","2025-10-24","Sneha","South","Furniture",1010.20,763.17
+"ORD-1298","2025-10-25","Vikram","East","Other Categories",1933.21,538.01
+"ORD-1299","2025-10-26","Vikram","West","Other Categories",1853.59,522.37
+"ORD-1300","2025-10-27","Amit Soni","South","Other Categories",4018.63,65.88
+"ORD-1301","2025-10-28","Amit Soni","East","Other Categories",4435.83,88.48
+"ORD-1302","2025-10-29","Rahul Dev","North","Other Categories",3499.51,749.76
+"ORD-1303","2025-10-30","Divyansh","West","Furniture",900.76,960.63
+"ORD-1304","2025-10-31","Vikram","South","Other Categories",3806.97,485.87
+"ORD-1305","2025-11-01","Rahul Dev","East","Furniture",1009.81,786.85
+"ORD-1306","2025-11-02","Sneha","East","Other Categories",1835.99,566.48
+"ORD-1307","2025-11-03","Amit Soni","East","Electronics",4065.77,902.57
+"ORD-1308","2025-11-04","Vikram","North","Furniture",675.46,334.40
+"ORD-1309","2025-11-05","Sneha","North","Other Categories",1588.35,767.70
+"ORD-1310","2025-11-06","Divyansh","North","Furniture",4416.24,126.91
+"ORD-1311","2025-11-07","Vikram","East","Other Categories",2298.71,664.54
+"ORD-1312","2025-11-08","Sneha","South","Other Categories",4374.13,228.91
+"ORD-1313","2025-11-09","Divyansh","North","Furniture",4670.65,863.68
+"ORD-1314","2025-11-10","Amit Soni","East","Other Categories",2791.22,624.28
+"ORD-1315","2025-11-11","Amit Soni","East","Furniture",2430.81,508.25
+"ORD-1316","2025-11-12","Rahul Dev","South","Furniture",587.08,803.66
+"ORD-1317","2025-11-13","Divyansh","South","Other Categories",3404.18,137.27
+"ORD-1318","2025-11-14","Rahul Dev","North","Furniture",3306.25,716.58
+"ORD-1319","2025-11-15","Sneha","East","Furniture",665.39,825.58
+"ORD-1320","2025-11-16","Amit Soni","West","Furniture",1182.82,406.89
+"ORD-1321","2025-11-17","Sneha","South","Furniture",2953.05,253.60
+"ORD-1322","2025-11-18","Divyansh","East","Electronics",2267.41,227.94
+"ORD-1323","2025-11-19","Divyansh","East","Electronics",757.01,54.00
+"ORD-1324","2025-11-20","Vikram","South","Furniture",4937.53,544.39
+"ORD-1325","2025-11-21","Vikram","South","Electronics",3360.09,224.66
+"ORD-1326","2025-11-22","Sneha","South","Furniture",1222.95,514.25
+"ORD-1327","2025-11-23","Divyansh","South","Furniture",2521.99,662.42
+"ORD-1328","2025-11-24","Divyansh","East","Electronics",934.17,624.14
+"ORD-1329","2025-11-25","Vikram","East","Other Categories",234.08,420.97
+"ORD-1330","2025-11-26","Divyansh","South","Other Categories",3444.55,540.64
+"ORD-1331","2025-11-27","Divyansh","South","Other Categories",2724.23,967.70
+"ORD-1332","2025-11-28","Vikram","North","Other Categories",3997.78,377.45
+"ORD-1333","2025-11-29","Rahul Dev","West","Electronics",4270.96,387.78
+"ORD-1334","2025-11-30","Vikram","West","Other Categories",3340.97,251.20
+"ORD-1335","2025-12-01","Amit Soni","South","Furniture",4096.23,1001.07
+"ORD-1336","2025-12-02","Vikram","East","Furniture",5066.69,307.44
+"ORD-1337","2025-12-03","Sneha","South","Other Categories",2769.74,397.91
+"ORD-1338","2025-12-04","Divyansh","West","Other Categories",4007.33,786.28
+"ORD-1339","2025-12-05","Rahul Dev","East","Furniture",3767.87,604.87
+"ORD-1340","2025-12-06","Sneha","West","Other Categories",1715.29,824.04
+"ORD-1341","2025-12-07","Vikram","East","Furniture",4491.07,519.72
+"ORD-1342","2025-12-08","Amit Soni","East","Other Categories",455.94,767.62
+"ORD-1343","2025-12-09","Rahul Dev","South","Other Categories",3614.77,501.59
+"ORD-1344","2025-12-10","Divyansh","East","Other Categories",4959.78,874.96
+"ORD-1345","2025-12-11","Divyansh","North","Other Categories",2930.09,619.12
+"ORD-1346","2025-12-12","Vikram","North","Furniture",1489.73,512.88
+"ORD-1347","2025-12-13","Rahul Dev","East","Furniture",3416.21,284.24
+"ORD-1348","2025-12-14","Divyansh","South","Other Categories",943.40,996.27
+"ORD-1349","2025-12-15","Sneha","South","Other Categories",772.84,471.88
+"ORD-1350","2025-12-16","Sneha","North","Electronics",1211.04,770.47
+"ORD-1351","2025-12-17","Sneha","North","Other Categories",3165.28,338.26
+"ORD-1352","2025-12-18","Sneha","South","Other Categories",390.38,875.73
+"ORD-1353","2025-12-19","Sneha","East","Other Categories",1012.63,987.23
+"ORD-1354","2025-12-20","Amit Soni","North","Electronics",4419.76,703.89
+"ORD-1355","2025-12-21","Vikram","South","Other Categories",1522.72,631.30
+"ORD-1356","2025-12-22","Sneha","East","Other Categories",2821.76,606.77
+"ORD-1357","2025-12-23","Sneha","South","Other Categories",4099.78,171.45
+"ORD-1358","2025-12-24","Amit Soni","North","Other Categories",2007.89,667.99
+"ORD-1359","2025-12-25","Vikram","South","Electronics",821.89,455.23
+"ORD-1360","2025-12-26","Divyansh","North","Other Categories",1127.12,259.27
+"ORD-1361","2025-12-27","Divyansh","East","Electronics",1289.71,794.84
+"ORD-1362","2025-12-28","Divyansh","East","Other Categories",2469.02,397.69
+"ORD-1363","2025-12-29","Amit Soni","North","Furniture",1508.99,514.23
+"ORD-1364","2025-12-30","Sneha","South","Electronics",2500.33,790.27
+"ORD-1365","2025-12-31","Amit Soni","East","Other Categories",3146.97,520.26
+"ORD-1366","2026-01-01","Vikram","North","Other Categories",1757.90,605.09
+"ORD-1367","2026-01-02","Sneha","South","Furniture",3861.92,911.80
+"ORD-1368","2026-01-03","Amit Soni","East","Electronics",4295.46,635.83
+"ORD-1369","2026-01-04","Rahul Dev","East","Other Categories",2107.13,38.80
+"ORD-1370","2026-01-05","Sneha","South","Other Categories",711.64,314.55
+"ORD-1371","2026-01-06","Rahul Dev","East","Other Categories",2481.06,810.77
+"ORD-1372","2026-01-07","Rahul Dev","West","Furniture",3421.08,618.21
+"ORD-1373","2026-01-08","Rahul Dev","East","Furniture",2181.96,494.46
+"ORD-1374","2026-01-09","Vikram","East","Other Categories",4729.97,510.55
+"ORD-1375","2026-01-10","Rahul Dev","East","Other Categories",1196.07,53.68
+"ORD-1376","2026-01-11","Sneha","South","Other Categories",2746.89,808.78
+"ORD-1377","2026-01-12","Rahul Dev","West","Furniture",4263.73,301.66
+"ORD-1378","2026-01-13","Amit Soni","North","Other Categories",146.44,641.45
+"ORD-1379","2026-01-14","Divyansh","South","Other Categories",4077.35,796.40
+"ORD-1380","2026-01-15","Sneha","East","Furniture",2695.32,252.13
+"ORD-1381","2026-01-16","Rahul Dev","East","Electronics",1210.78,724.05
+"ORD-1382","2026-01-17","Amit Soni","North","Other Categories",3888.89,544.91
+"ORD-1383","2026-01-18","Rahul Dev","South","Other Categories",4432.28,425.80
+"ORD-1384","2026-01-19","Vikram","East","Furniture",877.93,313.29
+"ORD-1385","2026-01-20","Rahul Dev","South","Other Categories",428.96,555.26
+"ORD-1386","2026-01-21","Sneha","West","Furniture",2745.54,535.35
+"ORD-1387","2026-01-22","Sneha","South","Other Categories",2436.07,594.46
+"ORD-1388","2026-01-23","Sneha","West","Other Categories",2918.94,814.66
+"ORD-1389","2026-01-24","Rahul Dev","South","Furniture",303.59,496.71
+"ORD-1390","2026-01-25","Amit Soni","South","Other Categories",1191.25,147.41
+"ORD-1391","2026-01-26","Divyansh","South","Other Categories",3893.04,372.87
+"ORD-1392","2026-01-27","Rahul Dev","East","Other Categories",1440.19,550.27
+"ORD-1393","2026-01-28","Amit Soni","West","Furniture",4146.65,679.09
+"ORD-1394","2026-01-29","Sneha","East","Electronics",2053.84,311.48
+"ORD-1395","2026-01-30","Divyansh","West","Furniture",4929.54,637.29
+"ORD-1396","2026-01-31","Sneha","South","Electronics",4962.60,411.13
+"ORD-1397","2026-02-01","Rahul Dev","South","Other Categories",3176.24,384.24
+"ORD-1398","2026-02-02","Divyansh","North","Other Categories",787.20,566.33
+"ORD-1399","2026-02-03","Divyansh","South","Other Categories",181.48,854.45
+"ORD-1400","2026-02-04","Sneha","East","Other Categories",4603.55,398.33
+"ORD-1401","2026-02-05","Rahul Dev","East","Other Categories",4241.51,313.52
+"ORD-1402","2026-02-06","Rahul Dev","East","Other Categories",5089.10,458.78
+"ORD-1403","2026-02-07","Divyansh","North","Furniture",1403.13,59.27
+"ORD-1404","2026-02-08","Rahul Dev","North","Other Categories",4793.08,522.19
+"ORD-1405","2026-02-09","Sneha","East","Electronics",4428.32,581.19
+"ORD-1406","2026-02-10","Sneha","South","Other Categories",4880.67,797.86
+"ORD-1407","2026-02-11","Sneha","South","Other Categories",4036.09,479.64
+"ORD-1408","2026-02-12","Divyansh","South","Furniture",2015.92,960.17
+"ORD-1409","2026-02-13","Divyansh","South","Furniture",2376.20,380.83
+"ORD-1410","2026-02-14","Sneha","South","Other Categories",4014.73,431.76
+"ORD-1411","2026-02-15","Divyansh","South","Other Categories",567.77,52.86
+"ORD-1412","2026-02-16","Sneha","South","Furniture",1437.29,986.50
+"ORD-1413","2026-02-17","Sneha","South","Furniture",840.70,816.20
+"ORD-1414","2026-02-18","Amit Soni","East","Other Categories",3774.26,177.94
+"ORD-1415","2026-02-19","Divyansh","West","Furniture",2926.01,496.21
+"ORD-1416","2026-02-20","Sneha","South","Furniture",990.87,674.61
+"ORD-1417","2026-02-21","Sneha","West","Electronics",1701.22,430.10
+"ORD-1418","2026-02-22","Divyansh","South","Furniture",1272.33,380.87
+"ORD-1419","2026-02-23","Sneha","East","Other Categories",1310.93,551.54
+"ORD-1420","2026-02-24","Vikram","East","Furniture",4553.99,281.29
+"ORD-1421","2026-02-25","Vikram","South","Other Categories",277.49,177.23
+"ORD-1422","2026-02-26","Sneha","East","Electronics",2385.40,358.26
+"ORD-1423","2026-02-27","Divyansh","North","Electronics",2248.89,715.66
+"ORD-1424","2026-02-28","Amit Soni","East","Electronics",3026.48,560.63
+"ORD-1425","2026-03-01","Rahul Dev","North","Furniture",5020.99,457.20
+"ORD-1426","2026-03-02","Sneha","South","Other Categories",3971.18,416.80
+"ORD-1427","2026-03-03","Rahul Dev","South","Other Categories",2277.44,485.89
+"ORD-1428","2026-03-04","Vikram","South","Other Categories",202.28,705.37
+"ORD-1429","2026-03-05","Sneha","North","Other Categories",3350.96,503.33
+"ORD-1430","2026-03-06","Sneha","East","Furniture",3531.75,251.74
+"ORD-1431","2026-03-07","Divyansh","West","Other Categories",1063.51,216.17
+"ORD-1432","2026-03-08","Rahul Dev","East","Furniture",4981.97,535.06
+"ORD-1433","2026-03-09","Amit Soni","East","Other Categories",2461.28,826.34
+"ORD-1434","2026-03-10","Sneha","East","Other Categories",5065.36,233.26
+"ORD-1435","2026-03-11","Amit Soni","East","Furniture",154.14,710.19
+"ORD-1436","2026-03-12","Rahul Dev","East","Other Categories",2400.54,708.93
+"ORD-1437","2026-03-13","Rahul Dev","North","Electronics",526.74,933.91
+"ORD-1438","2026-03-14","Divyansh","West","Other Categories",1234.64,353.71
+"ORD-1439","2026-03-15","Rahul Dev","South","Other Categories",1654.22,593.22
+"ORD-1440","2026-03-16","Sneha","North","Furniture",1777.40,493.30
+"ORD-1441","2026-03-17","Vikram","South","Other Categories",3250.66,555.99
+"ORD-1442","2026-03-18","Rahul Dev","South","Other Categories",3717.53,96.79
+"ORD-1443","2026-03-19","Divyansh","West","Furniture",1356.16,177.47
+"ORD-1444","2026-03-20","Amit Soni","West","Other Categories",3929.75,211.75
+"ORD-1445","2026-03-21","Sneha","South","Other Categories",501.61,913.45
+"ORD-1446","2026-03-22","Vikram","East","Furniture",3736.33,169.74
+"ORD-1447","2026-03-23","Sneha","South","Electronics",115.83,470.09
+"ORD-1448","2026-03-24","Sneha","South","Other Categories",2429.91,355.65
+"ORD-1449","2026-03-25","Rahul Dev","East","Other Categories",2268.85,749.90
+"ORD-1450","2026-03-26","Sneha","South","Other Categories",3894.53,905.16
+"ORD-1451","2026-03-27","Amit Soni","East","Other Categories",2695.12,807.24
+"ORD-1452","2026-03-28","Divyansh","West","Other Categories",1398.71,914.10
+"ORD-1453","2026-03-29","Rahul Dev","South","Other Categories",4168.56,17.20
+"ORD-1454","2026-03-30","Rahul Dev","East","Other Categories",4427.90,31.83
+"ORD-1455","2026-03-31","Sneha","North","Other Categories",2571.05,168.72
+"ORD-1456","2026-04-01","Rahul Dev","East","Furniture",3002.99,226.12
+"ORD-1457","2026-04-02","Rahul Dev","South","Electronics",4091.27,475.24
+"ORD-1458","2026-04-03","Divyansh","East","Other Categories",2947.34,849.84
+"ORD-1459","2026-04-04","Rahul Dev","West","Other Categories",844.72,432.03
+"ORD-1460","2026-04-05","Rahul Dev","South","Other Categories",701.74,686.79
+"ORD-1461","2026-04-06","Rahul Dev","North","Electronics",3871.51,825.31
+"ORD-1462","2026-04-07","Sneha","South","Other Categories",2994.26,325.39
+"ORD-1463","2026-04-08","Sneha","South","Other Categories",5092.60,579.68
+"ORD-1464","2026-04-09","Rahul Dev","East","Other Categories",2314.88,859.64
+"ORD-1465","2026-04-10","Amit Soni","South","Other Categories",1827.61,163.38
+"ORD-1466","2026-04-11","Rahul Dev","North","Furniture",4474.03,406.47
+"ORD-1467","2026-04-12","Divyansh","South","Other Categories",1882.55,959.97
+"ORD-1468","2026-04-13","Sneha","East","Other Categories",658.50,881.09
+"ORD-1469","2026-04-14","Amit Soni","North","Other Categories",1238.54,402.43
+"ORD-1470","2026-04-15","Divyansh","South","Electronics",801.02,736.49
+"ORD-1471","2026-04-16","Divyansh","East","Other Categories",3425.90,233.90
+"ORD-1472","2026-04-17","Sneha","East","Electronics",2746.68,138.92
+"ORD-1473","2026-04-18","Rahul Dev","North","Electronics",4600.11,924.68
+"ORD-1474","2026-04-19","Sneha","North","Other Categories",2154.44,941.46
+"ORD-1475","2026-04-20","Sneha","South","Other Categories",606.42,635.83
+"ORD-1476","2026-04-21","Sneha","West","Other Categories",130.41,315.04
+"ORD-1477","2026-04-22","Rahul Dev","South","Electronics",3708.58,556.00
+"ORD-1478","2026-04-23","Vikram","South","Furniture",2713.98,443.86
+"ORD-1479","2026-04-24","Sneha","South","Furniture",1156.25,330.25
+"ORD-1480","2026-04-25","Divyansh","East","Other Categories",750.73,760.17
+"ORD-1481","2026-04-26","Divyansh","North","Other Categories",365.29,498.55
+"ORD-1482","2026-04-27","Sneha","East","Furniture",3858.67,482.55
+"ORD-1483","2026-04-28","Sneha","West","Other Categories",3110.53,824.15
+"ORD-1484","2026-04-29","Divyansh","South","Electronics",1951.51,602.50
+"ORD-1485","2026-04-30","Rahul Dev","West","Other Categories",781.51,487.16
+"ORD-1486","2026-05-01","Vikram","South","Other Categories",4561.89,593.87
+"ORD-1487","2026-05-02","Sneha","South","Other Categories",3520.47,772.89
+"ORD-1488","2026-05-03","Sneha","West","Other Categories",3903.95,256.10
+"ORD-1489","2026-05-04","Rahul Dev","South","Furniture",3350.45,640.26
+"ORD-1490","2026-05-05","Rahul Dev","North","Furniture",1406.36,397.38
+"ORD-1491","2026-05-06","Vikram","South","Furniture",1834.24,813.54
+"ORD-1492","2026-05-07","Sneha","South","Other Categories",2359.00,56.67
+"ORD-1493","2026-05-08","Vikram","East","Furniture",4979.80,487.28
+"ORD-1494","2026-05-09","Sneha","East","Other Categories",833.34,682.70
+"ORD-1495","2026-05-10","Vikram","South","Other Categories",1199.62,15.20
+"ORD-1496","2026-05-11","Sneha","South","Other Categories",4533.28,160.37
+"ORD-1497","2026-05-12","Rahul Dev","North","Furniture",2010.81,223.16
+"ORD-1498","2026-05-13","Rahul Dev","North","Electronics",2521.06,536.14
+"ORD-1499","2026-05-14","Amit Soni","West","Furniture",800.90,862.46
+"ORD-1500","2026-05-15","Sneha","East","Other Categories",3449.89,991.95
+"ORD-1501","2026-05-16","Divyansh","South","Other Categories",2622.94,515.99
+"ORD-1502","2026-05-17","Divyansh","South","Furniture",4987.12,902.53
+"ORD-1503","2026-05-18","Vikram","South","Furniture",700.12,356.98
+"ORD-1504","2026-05-19","Sneha","East","Furniture",2737.65,419.90
+"ORD-1505","2026-05-20","Divyansh","South","Furniture",3636.29,79.02
+"ORD-1506","2026-05-21","Amit Soni","West","Electronics",3106.14,253.75
+"ORD-1507","2026-05-22","Amit Soni","East","Furniture",4051.13,123.82
+"ORD-1508","2026-05-23","Divyansh","North","Electronics",325.88,42.99
+"ORD-1509","2026-05-24","Rahul Dev","East","Furniture",204.76,953.41
+"ORD-1510","2026-05-25","Rahul Dev","South","Electronics",4907.01,842.37
+"ORD-1511","2026-05-26","Rahul Dev","South","Furniture",1523.08,215.12
+"ORD-1512","2026-05-27","Sneha","West","Other Categories",3831.23,219.73
+"ORD-1513","2026-05-28","Sneha","East","Other Categories",1255.89,350.76
+"ORD-1514","2026-05-29","Sneha","South","Other Categories",1536.89,940.90
+"ORD-1515","2026-05-30","Rahul Dev","North","Other Categories",1402.62,423.11
+"ORD-1516","2026-05-31","Divyansh","North","Other Categories",2380.74,29.54
+"ORD-1517","2026-06-01","Sneha","East","Furniture",570.93,810.82
+"ORD-1518","2026-06-02","Rahul Dev","East","Other Categories",4710.46,36.45
+"ORD-1519","2026-06-03","Amit Soni","North","Electronics",4985.88,761.99
+"ORD-1520","2026-06-04","Sneha","South","Furniture",1672.17,807.63
+"ORD-1521","2026-06-05","Sneha","South","Electronics",2795.92,1007.60
+"ORD-1522","2026-06-06","Amit Soni","South","Other Categories",3325.88,176.05
+"ORD-1523","2026-06-07","Sneha","North","Furniture",176.15,682.73
+"ORD-1524","2026-06-08","Amit Soni","South","Furniture",2670.55,370.83
+"ORD-1525","2026-06-09","Vikram","South","Furniture",398.65,1000.25
+"ORD-1526","2026-06-10","Rahul Dev","East","Other Categories",3265.69,477.12
+"ORD-1527","2026-06-11","Sneha","South","Furniture",4899.55,452.74
+"ORD-1528","2026-06-12","Sneha","East","Electronics",4063.42,1008.04
+"ORD-1529","2026-06-13","Divyansh","East","Other Categories",4321.64,345.88
+"ORD-1530","2026-06-14","Sneha","South","Electronics",3189.33,81.12
+"ORD-1531","2026-06-15","Divyansh","South","Furniture",2021.27,862.70
+"ORD-1532","2026-06-16","Sneha","North","Furniture",2483.81,606.24
+"ORD-1533","2026-06-17","Divyansh","South","Electronics",5060.08,444.84
+"ORD-1534","2026-06-18","Sneha","West","Furniture",209.94,688.70
+"ORD-1535","2026-06-19","Divyansh","East","Furniture",2276.77,230.08
+"ORD-1536","2026-06-20","Vikram","West","Furniture",1742.15,438.49
+"ORD-1537","2026-06-21","Vikram","North","Other Categories",3886.48,845.90
+"ORD-1538","2026-06-22","Divyansh","East","Furniture",3099.76,468.07
+"ORD-1539","2026-06-23","Rahul Dev","West","Furniture",3926.48,592.28
+"ORD-1540","2026-06-24","Divyansh","East","Electronics",4495.41,446.68
+"ORD-1541","2026-06-25","Divyansh","East","Other Categories",1600.44,528.75
+"ORD-1542","2026-06-26","Divyansh","South","Furniture",3033.78,93.39
+"ORD-1543","2026-06-27","Amit Soni","South","Other Categories",562.92,790.06
+"ORD-1544","2026-06-28","Vikram","East","Furniture",1362.49,377.12
+"ORD-1545","2026-06-29","Vikram","West","Electronics",4194.65,138.82
+"ORD-1546","2026-06-30","Divyansh","South","Other Categories",1880.71,425.96
+"ORD-1547","2026-07-01","Vikram","South","Furniture",4529.29,123.38
+"ORD-1548","2026-07-02","Divyansh","South","Electronics",2804.05,721.25
+"ORD-1549","2026-07-03","Divyansh","West","Furniture",1308.47,851.24
+"ORD-1550","2026-07-04","Vikram","South","Other Categories",3129.50,658.49
+"ORD-1551","2026-07-05","Divyansh","East","Furniture",2265.29,137.02
+"ORD-1552","2026-07-06","Amit Soni","West","Electronics",107.34,839.89
+"ORD-1553","2026-07-07","Divyansh","East","Furniture",4799.21,276.19
+"ORD-1554","2026-07-08","Divyansh","North","Furniture",1464.45,674.30
+"ORD-1555","2026-07-09","Sneha","South","Electronics",234.24,886.07
+"ORD-1556","2026-07-10","Divyansh","East","Furniture",4740.36,649.56
+"ORD-1557","2026-07-11","Rahul Dev","East","Other Categories",1570.66,399.84
+"ORD-1558","2026-07-12","Amit Soni","East","Electronics",1712.27,552.01
+"ORD-1559","2026-07-13","Rahul Dev","East","Electronics",954.19,288.80
+"ORD-1560","2026-07-14","Rahul Dev","East","Other Categories",4370.27,711.84
+"ORD-1561","2026-07-15","Rahul Dev","South","Furniture",2805.34,624.46
+"ORD-1562","2026-07-16","Rahul Dev","North","Electronics",3807.25,588.24
+"ORD-1563","2026-07-17","Divyansh","East","Electronics",4769.69,97.36
+"ORD-1564","2026-07-18","Sneha","South","Other Categories",1261.38,294.63
+"ORD-1565","2026-07-19","Sneha","West","Other Categories",1429.69,922.05
+"ORD-1566","2026-07-20","Amit Soni","North","Furniture",4280.34,601.11
+"ORD-1567","2026-07-21","Vikram","North","Other Categories",1147.65,391.93
+"ORD-1568","2026-07-22","Sneha","North","Other Categories",4178.62,577.60
+"ORD-1569","2026-07-23","Sneha","South","Other Categories",2276.01,1000.82
+"ORD-1570","2026-07-24","Amit Soni","South","Furniture",2783.63,749.75
+"ORD-1571","2026-07-25","Rahul Dev","East","Furniture",1899.36,301.79
+"ORD-1572","2026-07-26","Sneha","East","Other Categories",4298.77,875.59
+"ORD-1573","2026-07-27","Divyansh","East","Other Categories",1095.09,879.32
+"ORD-1574","2026-07-28","Sneha","South","Other Categories",4583.75,385.73
+"ORD-1575","2026-07-29","Amit Soni","South","Other Categories",1722.14,886.30
+"ORD-1576","2026-07-30","Amit Soni","West","Furniture",1968.24,850.22
+"ORD-1577","2026-07-31","Vikram","South","Electronics",2999.52,273.36
+"ORD-1578","2026-08-01","Rahul Dev","South","Furniture",4944.11,375.58
+"ORD-1579","2026-08-02","Amit Soni","North","Other Categories",3624.91,513.53
+"ORD-1580","2026-08-03","Amit Soni","East","Other Categories",1231.06,162.28
+"ORD-1581","2026-08-04","Rahul Dev","South","Other Categories",3056.58,551.18
+"ORD-1582","2026-08-05","Sneha","North","Other Categories",3969.11,871.36
+"ORD-1583","2026-08-06","Sneha","West","Other Categories",1451.18,716.03
+"ORD-1584","2026-08-07","Amit Soni","South","Other Categories",3746.80,467.61
+"ORD-1585","2026-08-08","Rahul Dev","South","Furniture",4889.23,58.12
+"ORD-1586","2026-08-09","Rahul Dev","East","Other Categories",478.58,135.39
+"ORD-1587","2026-08-10","Sneha","West","Electronics",986.34,956.70
+"ORD-1588","2026-08-11","Rahul Dev","West","Furniture",456.10,826.58
+"ORD-1589","2026-08-12","Divyansh","East","Furniture",510.19,546.68
+"ORD-1590","2026-08-13","Divyansh","South","Other Categories",4393.60,228.96
+"ORD-1591","2026-08-14","Sneha","South","Furniture",1293.39,311.70
+"ORD-1592","2026-08-15","Rahul Dev","East","Other Categories",278.06,743.78
+"ORD-1593","2026-08-16","Divyansh","West","Furniture",4912.05,453.42
+"ORD-1594","2026-08-17","Amit Soni","South","Electronics",3214.79,641.11
+"ORD-1595","2026-08-18","Amit Soni","South","Other Categories",2358.58,63.13
+"ORD-1596","2026-08-19","Vikram","South","Electronics",3475.19,675.24
+"ORD-1597","2026-08-20","Rahul Dev","East","Furniture",1350.84,610.75
+"ORD-1598","2026-08-21","Rahul Dev","East","Other Categories",2767.30,196.39
+"ORD-1599","2026-08-22","Vikram","South","Other Categories",4795.66,809.32
+"ORD-1600","2026-08-23","Vikram","East","Other Categories",2122.32,533.52
+"ORD-1601","2026-08-24","Divyansh","South","Electronics",1060.26,455.79
+"ORD-1602","2026-08-25","Divyansh","South","Furniture",2043.79,113.56
+"ORD-1603","2026-08-26","Amit Soni","East","Furniture",5097.34,640.98
+"ORD-1604","2026-08-27","Divyansh","West","Furniture",2072.22,300.06
+"ORD-1605","2026-08-28","Sneha","West","Other Categories",4574.89,793.93
+"ORD-1606","2026-08-29","Vikram","North","Furniture",2031.07,915.85
+"ORD-1607","2026-08-30","Rahul Dev","East","Other Categories",1541.13,232.77
+"ORD-1608","2026-08-31","Rahul Dev","South","Furniture",140.25,805.16
+"ORD-1609","2026-09-01","Rahul Dev","West","Other Categories",4740.99,152.88
+"ORD-1610","2026-09-02","Sneha","East","Furniture",1604.88,319.05
+"ORD-1611","2026-09-03","Amit Soni","North","Other Categories",5011.26,783.39
+"ORD-1612","2026-09-04","Vikram","East","Electronics",366.31,101.02
+"ORD-1613","2026-09-05","Rahul Dev","West","Other Categories",1220.97,441.68
+"ORD-1614","2026-09-06","Divyansh","West","Electronics",3850.65,122.11
+"ORD-1615","2026-09-07","Rahul Dev","South","Furniture",1170.62,54.72
+"ORD-1616","2026-09-08","Divyansh","South","Furniture",4663.06,713.27
+"ORD-1617","2026-09-09","Amit Soni","North","Other Categories",420.53,800.30
+"ORD-1618","2026-09-10","Amit Soni","West","Other Categories",1704.03,760.11
+"ORD-1619","2026-09-11","Rahul Dev","South","Other Categories",3403.23,11.62
+"ORD-1620","2026-09-12","Divyansh","South","Furniture",1121.08,649.70
+"ORD-1621","2026-09-13","Rahul Dev","East","Furniture",461.78,234.06
+"ORD-1622","2026-09-14","Sneha","West","Other Categories",2163.29,700.90
+"ORD-1623","2026-09-15","Divyansh","South","Furniture",5045.54,502.82
+"ORD-1624","2026-09-16","Vikram","East","Other Categories",4444.27,735.07
+"ORD-1625","2026-09-17","Divyansh","West","Electronics",4013.48,368.27
+"ORD-1626","2026-09-18","Rahul Dev","South","Furniture",3641.72,194.71
+"ORD-1627","2026-09-19","Amit Soni","North","Other Categories",3301.98,997.74
+"ORD-1628","2026-09-20","Divyansh","West","Furniture",3993.00,939.63
+"ORD-1629","2026-09-21","Sneha","North","Other Categories",755.28,959.34
+"ORD-1630","2026-09-22","Sneha","South","Electronics",3541.83,181.02
+"ORD-1631","2026-09-23","Sneha","South","Other Categories",2609.68,866.48
+"ORD-1632","2026-09-24","Sneha","South","Furniture",3844.52,93.10
+"ORD-1633","2026-09-25","Divyansh","West","Furniture",3089.81,479.47
+"ORD-1634","2026-09-26","Divyansh","South","Other Categories",1660.43,980.11
+"ORD-1635","2026-09-27","Rahul Dev","South","Electronics",3116.62,761.62
+"ORD-1636","2026-09-28","Vikram","West","Other Categories",3693.04,773.71
+"ORD-1637","2026-09-29","Amit Soni","South","Furniture",3119.64,844.32
+"ORD-1638","2026-09-30","Sneha","South","Other Categories",3992.74,144.88
+"ORD-1639","2026-10-01","Rahul Dev","South","Electronics",904.17,651.17
+"ORD-1640","2026-10-02","Vikram","East","Other Categories",3037.95,339.84
+"ORD-1641","2026-10-03","Divyansh","South","Other Categories",3774.69,193.37
+"ORD-1642","2026-10-04","Amit Soni","East","Other Categories",2783.27,984.95
+"ORD-1643","2026-10-05","Rahul Dev","West","Electronics",5094.18,539.20
+"ORD-1644","2026-10-06","Amit Soni","East","Electronics",5090.26,865.25
+"ORD-1645","2026-10-07","Divyansh","South","Other Categories",4750.85,270.86
+"ORD-1646","2026-10-08","Rahul Dev","South","Other Categories",2099.84,317.93
+"ORD-1647","2026-10-09","Divyansh","South","Other Categories",3383.30,832.78
+"ORD-1648","2026-10-10","Rahul Dev","East","Furniture",4985.00,882.45
+"ORD-1649","2026-10-11","Vikram","East","Electronics",291.91,525.13
+"ORD-1650","2026-10-12","Divyansh","South","Other Categories",1813.91,949.52
+"ORD-1651","2026-10-13","Divyansh","South","Other Categories",4897.08,610.28
+"ORD-1652","2026-10-14","Rahul Dev","East","Electronics",1784.19,745.30
+"ORD-1653","2026-10-15","Rahul Dev","North","Other Categories",1258.72,307.98
+"ORD-1654","2026-10-16","Sneha","West","Electronics",5094.07,822.21
+"ORD-1655","2026-10-17","Rahul Dev","West","Other Categories",2487.88,83.82
+"ORD-1656","2026-10-18","Rahul Dev","East","Other Categories",2206.11,446.86
+"ORD-1657","2026-10-19","Divyansh","North","Electronics",3524.16,870.76
+"ORD-1658","2026-10-20","Rahul Dev","West","Other Categories",4901.77,404.93
+"ORD-1659","2026-10-21","Amit Soni","East","Electronics",1090.56,317.50
+"ORD-1660","2026-10-22","Divyansh","South","Furniture",1622.45,832.88
+"ORD-1661","2026-10-23","Rahul Dev","West","Furniture",1749.87,370.61
+"ORD-1662","2026-10-24","Rahul Dev","North","Other Categories",1428.34,363.94
+"ORD-1663","2026-10-25","Vikram","North","Other Categories",3563.80,875.89
+"ORD-1664","2026-10-26","Divyansh","South","Furniture",5038.96,302.65
+"ORD-1665","2026-10-27","Divyansh","South","Other Categories",2985.53,617.61
+"ORD-1666","2026-10-28","Divyansh","South","Furniture",2955.09,507.53
+"ORD-1667","2026-10-29","Sneha","North","Other Categories",4710.02,793.74
+"ORD-1668","2026-10-30","Amit Soni","North","Furniture",1019.34,702.19
+"ORD-1669","2026-10-31","Rahul Dev","East","Other Categories",4296.14,525.53
+"ORD-1670","2026-11-01","Divyansh","South","Furniture",715.26,352.08
+"ORD-1671","2026-11-02","Divyansh","South","Electronics",1951.82,156.55
+"ORD-1672","2026-11-03","Divyansh","South","Other Categories",615.35,787.31
+"ORD-1673","2026-11-04","Sneha","South","Furniture",5065.34,661.61
+"ORD-1674","2026-11-05","Divyansh","North","Other Categories",318.22,296.17
+"ORD-1675","2026-11-06","Sneha","East","Other Categories",500.08,944.48
+"ORD-1676","2026-11-07","Divyansh","East","Other Categories",312.04,241.63
+"ORD-1677","2026-11-08","Divyansh","West","Other Categories",355.41,819.57
+"ORD-1678","2026-11-09","Rahul Dev","North","Other Categories",2662.83,804.80
+"ORD-1679","2026-11-10","Vikram","West","Electronics",4852.07,250.46
+"ORD-1680","2026-11-11","Amit Soni","East","Other Categories",979.55,857.36
+"ORD-1681","2026-11-12","Sneha","West","Electronics",4421.51,561.80
+"ORD-1682","2026-11-13","Divyansh","West","Other Categories",3959.15,400.39
+"ORD-1683","2026-11-14","Vikram","South","Furniture",2886.78,64.20
+"ORD-1684","2026-11-15","Sneha","South","Other Categories",2710.26,177.92
+"ORD-1685","2026-11-16","Divyansh","South","Other Categories",4728.75,916.32
+"ORD-1686","2026-11-17","Divyansh","West","Furniture",1288.92,510.82
+"ORD-1687","2026-11-18","Sneha","East","Furniture",2446.78,332.16
+"ORD-1688","2026-11-19","Divyansh","North","Furniture",2877.09,951.84
+"ORD-1689","2026-11-20","Vikram","East","Furniture",5084.05,456.17
+"ORD-1690","2026-11-21","Rahul Dev","East","Electronics",1523.38,177.89
+"ORD-1691","2026-11-22","Amit Soni","South","Furniture",505.44,332.08
+"ORD-1692","2026-11-23","Divyansh","West","Electronics",1746.42,883.66
+"ORD-1693","2026-11-24","Divyansh","East","Furniture",2046.34,964.13
+"ORD-1694","2026-11-25","Divyansh","West","Other Categories",1028.27,969.67
+"ORD-1695","2026-11-26","Sneha","West","Other Categories",3877.25,136.95
+"ORD-1696","2026-11-27","Amit Soni","West","Other Categories",2892.76,716.94
+"ORD-1697","2026-11-28","Vikram","East","Electronics",4685.44,261.94
+"ORD-1698","2026-11-29","Rahul Dev","South","Other Categories",5066.06,157.07
+"ORD-1699","2026-11-30","Vikram","South","Other Categories",4031.83,299.51
+"ORD-1700","2026-12-01","Vikram","East","Electronics",2668.20,237.10
+"ORD-1701","2026-12-02","Rahul Dev","East","Other Categories",2465.03,159.23
+"ORD-1702","2026-12-03","Rahul Dev","West","Electronics",2077.07,677.21
+"ORD-1703","2026-12-04","Amit Soni","West","Electronics",665.44,406.20
+"ORD-1704","2026-12-05","Divyansh","West","Furniture",4274.93,257.92
+"ORD-1705","2026-12-06","Sneha","North","Electronics",3101.29,968.77
+"ORD-1706","2026-12-07","Sneha","South","Furniture",3036.96,446.58
+"ORD-1707","2026-12-08","Rahul Dev","West","Other Categories",2950.47,487.62
+"ORD-1708","2026-12-09","Divyansh","East","Furniture",1344.15,97.90
+"ORD-1709","2026-12-10","Divyansh","South","Electronics",3738.54,124.68
+"ORD-1710","2026-12-11","Divyansh","South","Furniture",3827.39,62.87
+"ORD-1711","2026-12-12","Divyansh","South","Furniture",4968.20,961.13
+"ORD-1712","2026-12-13","Rahul Dev","East","Other Categories",2399.13,349.25
+"ORD-1713","2026-12-14","Vikram","West","Electronics",3710.28,925.11
+"ORD-1714","2026-12-15","Sneha","West","Furniture",4424.90,118.03
+"ORD-1715","2026-12-16","Rahul Dev","North","Furniture",2286.20,771.11
+"ORD-1716","2026-12-17","Divyansh","South","Electronics",4865.38,575.56
+"ORD-1717","2026-12-18","Divyansh","South","Other Categories",3234.02,468.44
+"ORD-1718","2026-12-19","Rahul Dev","East","Electronics",4550.28,133.20
+"ORD-1719","2026-12-20","Sneha","South","Other Categories",2852.09,995.97
+"ORD-1720","2026-12-21","Rahul Dev","West","Other Categories",524.21,30.09
+"ORD-1721","2026-12-22","Rahul Dev","East","Other Categories",4271.03,270.81
+"ORD-1722","2026-12-23","Amit Soni","South","Other Categories",3444.04,897.83
+"ORD-1723","2026-12-24","Rahul Dev","East","Other Categories",2766.30,929.54
+"ORD-1724","2026-12-25","Vikram","South","Electronics",1596.84,368.56
+"ORD-1725","2026-12-26","Divyansh","East","Furniture",181.80,355.78
+"ORD-1726","2026-12-27","Rahul Dev","North","Other Categories",3886.24,770.26
+"ORD-1727","2026-12-28","Vikram","North","Other Categories",4008.22,889.03
+"ORD-1728","2026-12-29","Divyansh","North","Furniture",3771.90,135.48
+"ORD-1729","2026-12-30","Divyansh","East","Other Categories",3811.08,878.05
+"ORD-1730","2026-12-31","Vikram","East","Other Categories",1039.83,719.09
+"ORD-1731","2027-01-01","Sneha","South","Furniture",3013.59,702.44
+"ORD-1732","2027-01-02","Sneha","West","Electronics",3946.45,524.01
+"ORD-1733","2027-01-03","Divyansh","West","Other Categories",1969.98,100.77
+"ORD-1734","2027-01-04","Rahul Dev","East","Electronics",3550.27,850.93
+"ORD-1735","2027-01-05","Divyansh","West","Other Categories",363.54,475.29
+"ORD-1736","2027-01-06","Amit Soni","East","Other Categories",1273.07,431.26
+"ORD-1737","2027-01-07","Rahul Dev","West","Furniture",2845.66,151.15
+"ORD-1738","2027-01-08","Rahul Dev","South","Other Categories",4731.39,877.16
+"ORD-1739","2027-01-09","Divyansh","South","Furniture",4462.91,743.98
+"ORD-1740","2027-01-10","Rahul Dev","South","Electronics",2252.16,22.29
+"ORD-1741","2027-01-11","Divyansh","West","Electronics",3701.01,146.86
+"ORD-1742","2027-01-12","Rahul Dev","North","Furniture",4796.33,472.20
+"ORD-1743","2027-01-13","Sneha","South","Electronics",507.12,721.21
+"ORD-1744","2027-01-14","Vikram","West","Other Categories",3828.17,500.60
+"ORD-1745","2027-01-15","Divyansh","South","Other Categories",753.31,862.91
+"ORD-1746","2027-01-16","Rahul Dev","South","Furniture",4830.70,880.69
+"ORD-1747","2027-01-17","Sneha","East","Other Categories",1571.65,357.99
+"ORD-1748","2027-01-18","Vikram","East","Other Categories",2288.83,730.69
+"ORD-1749","2027-01-19","Divyansh","North","Other Categories",2116.62,666.55
+"ORD-1750","2027-01-20","Amit Soni","East","Other Categories",842.86,580.74
+"ORD-1751","2027-01-21","Sneha","South","Furniture",3679.85,276.97
+"ORD-1752","2027-01-22","Vikram","East","Furniture",4089.86,893.71
+"ORD-1753","2027-01-23","Amit Soni","East","Other Categories",3678.32,736.96
+"ORD-1754","2027-01-24","Rahul Dev","East","Furniture",1065.23,884.98
+"ORD-1755","2027-01-25","Vikram","East","Furniture",538.18,183.27
+"ORD-1756","2027-01-26","Sneha","North","Other Categories",1622.63,981.88
+"ORD-1757","2027-01-27","Vikram","East","Furniture",1707.92,224.99
+"ORD-1758","2027-01-28","Sneha","West","Electronics",273.69,903.74
+"ORD-1759","2027-01-29","Amit Soni","South","Other Categories",3883.42,477.75
+"ORD-1760","2027-01-30","Sneha","West","Furniture",3321.76,408.56
+"ORD-1761","2027-01-31","Rahul Dev","East","Electronics",2935.57,846.26
+"ORD-1762","2027-02-01","Amit Soni","North","Furniture",2458.08,483.45
+"ORD-1763","2027-02-02","Rahul Dev","North","Other Categories",4178.46,460.88
+"ORD-1764","2027-02-03","Sneha","South","Other Categories",4993.77,853.71
+"ORD-1765","2027-02-04","Divyansh","North","Electronics",3038.40,936.88
+"ORD-1766","2027-02-05","Amit Soni","North","Electronics",4276.68,643.16
+"ORD-1767","2027-02-06","Amit Soni","East","Furniture",643.75,378.94
+"ORD-1768","2027-02-07","Divyansh","South","Other Categories",2253.68,294.51
+"ORD-1769","2027-02-08","Divyansh","West","Furniture",3942.31,460.89
+"ORD-1770","2027-02-09","Amit Soni","East","Furniture",1474.92,573.62
+"ORD-1771","2027-02-10","Rahul Dev","East","Other Categories",3620.62,939.15
+"ORD-1772","2027-02-11","Rahul Dev","East","Other Categories",2291.78,97.45
+"ORD-1773","2027-02-12","Divyansh","South","Other Categories",307.16,246.94
+"ORD-1774","2027-02-13","Divyansh","East","Other Categories",633.53,962.19
+"ORD-1775","2027-02-14","Rahul Dev","North","Other Categories",2920.98,435.56
+"ORD-1776","2027-02-15","Sneha","East","Other Categories",3063.44,68.62
+"ORD-1777","2027-02-16","Sneha","South","Other Categories",1447.47,722.23
+"ORD-1778","2027-02-17","Divyansh","North","Electronics",3644.43,208.58
+"ORD-1779","2027-02-18","Sneha","South","Furniture",3725.54,635.59
+"ORD-1780","2027-02-19","Amit Soni","East","Other Categories",2846.08,195.98
+"ORD-1781","2027-02-20","Divyansh","North","Electronics",3198.78,357.98
+"ORD-1782","2027-02-21","Vikram","South","Other Categories",2757.93,544.82
+"ORD-1783","2027-02-22","Rahul Dev","South","Electronics",2844.27,66.97
+"ORD-1784","2027-02-23","Sneha","South","Other Categories",1367.50,60.09
+"ORD-1785","2027-02-24","Divyansh","South","Furniture",3984.13,906.64
+"ORD-1786","2027-02-25","Divyansh","North","Electronics",123.97,981.33
+"ORD-1787","2027-02-26","Vikram","West","Furniture",4088.03,388.93
+"ORD-1788","2027-02-27","Rahul Dev","East","Furniture",1339.90,648.34
+"ORD-1789","2027-02-28","Rahul Dev","West","Other Categories",954.39,596.91
+"ORD-1790","2027-03-01","Sneha","North","Other Categories",4721.39,925.68
+"ORD-1791","2027-03-02","Vikram","South","Furniture",1675.56,510.40
+"ORD-1792","2027-03-03","Sneha","South","Other Categories",2340.44,93.96
+"ORD-1793","2027-03-04","Vikram","North","Other Categories",1355.56,873.91
+"ORD-1794","2027-03-05","Sneha","North","Other Categories",4783.61,256.01
+"ORD-1795","2027-03-06","Vikram","East","Furniture",4801.56,222.95
+"ORD-1796","2027-03-07","Divyansh","East","Electronics",2861.09,885.66
+"ORD-1797","2027-03-08","Rahul Dev","East","Electronics",2311.69,180.37
+"ORD-1798","2027-03-09","Sneha","West","Other Categories",4468.29,522.93
+"ORD-1799","2027-03-10","Vikram","West","Electronics",3521.66,299.27
+"ORD-1800","2027-03-11","Vikram","East","Furniture",3998.25,628.90
+"ORD-1801","2027-03-12","Sneha","East","Other Categories",4978.06,799.26
+"ORD-1802","2027-03-13","Divyansh","South","Furniture",434.17,42.72
+"ORD-1803","2027-03-14","Vikram","South","Furniture",1132.77,106.42
+"ORD-1804","2027-03-15","Divyansh","East","Other Categories",2335.34,424.81
+"ORD-1805","2027-03-16","Vikram","East","Other Categories",4219.24,409.36
+"ORD-1806","2027-03-17","Rahul Dev","East","Furniture",2022.63,320.39
+"ORD-1807","2027-03-18","Sneha","North","Other Categories",2517.56,487.73
+"ORD-1808","2027-03-19","Sneha","East","Other Categories",4231.57,332.57
+"ORD-1809","2027-03-20","Sneha","South","Furniture",3282.36,41.25
+"ORD-1810","2027-03-21","Divyansh","West","Electronics",1792.56,228.54
+"ORD-1811","2027-03-22","Rahul Dev","South","Electronics",4265.74,10.35
+"ORD-1812","2027-03-23","Rahul Dev","South","Furniture",4399.06,943.10
+"ORD-1813","2027-03-24","Rahul Dev","East","Furniture",3337.23,12.03
+"ORD-1814","2027-03-25","Divyansh","East","Electronics",1648.22,244.17
+"ORD-1815","2027-03-26","Rahul Dev","South","Other Categories",3103.32,901.43
+"ORD-1816","2027-03-27","Rahul Dev","East","Other Categories",652.95,797.40
+"ORD-1817","2027-03-28","Rahul Dev","South","Other Categories",451.51,189.31
+"ORD-1818","2027-03-29","Divyansh","West","Other Categories",4307.39,67.76
+"ORD-1819","2027-03-30","Divyansh","South","Other Categories",3876.62,782.03
+"ORD-1820","2027-03-31","Divyansh","East","Other Categories",1343.67,463.35
+"ORD-1821","2027-04-01","Sneha","South","Other Categories",1541.15,30.79
+"ORD-1822","2027-04-02","Amit Soni","East","Furniture",2597.46,436.10
+"ORD-1823","2027-04-03","Divyansh","East","Furniture",3886.09,228.52
+"ORD-1824","2027-04-04","Divyansh","West","Other Categories",1843.51,758.37
+"ORD-1825","2027-04-05","Rahul Dev","East","Other Categories",4363.62,451.88
+"ORD-1826","2027-04-06","Sneha","South","Other Categories",3998.45,381.85
+"ORD-1827","2027-04-07","Divyansh","West","Other Categories",4707.88,969.90
+"ORD-1828","2027-04-08","Rahul Dev","East","Furniture",4549.63,904.18
+"ORD-1829","2027-04-09","Divyansh","South","Other Categories",4743.82,470.46
+"ORD-1830","2027-04-10","Divyansh","South","Other Categories",995.37,362.38
+"ORD-1831","2027-04-11","Sneha","North","Furniture",2572.80,416.79
+"ORD-1832","2027-04-12","Divyansh","East","Furniture",3982.60,67.78
+"ORD-1833","2027-04-13","Divyansh","East","Furniture",3050.88,462.32
+"ORD-1834","2027-04-14","Rahul Dev","East","Other Categories",897.24,861.00
+"ORD-1835","2027-04-15","Sneha","East","Other Categories",3270.84,849.10
+"ORD-1836","2027-04-16","Rahul Dev","South","Furniture",2998.99,121.04
+"ORD-1837","2027-04-17","Vikram","East","Other Categories",1690.97,831.57
+"ORD-1838","2027-04-18","Sneha","East","Electronics",1020.47,853.30
+"ORD-1839","2027-04-19","Rahul Dev","West","Other Categories",3433.11,906.86
+"ORD-1840","2027-04-20","Vikram","East","Other Categories",2867.26,432.74
+"ORD-1841","2027-04-21","Rahul Dev","East","Electronics",1549.20,812.37
+"ORD-1842","2027-04-22","Vikram","East","Furniture",4057.11,789.45
+"ORD-1843","2027-04-23","Rahul Dev","East","Furniture",1165.61,827.70
+"ORD-1844","2027-04-24","Sneha","West","Furniture",2025.32,154.04
+"ORD-1845","2027-04-25","Divyansh","South","Furniture",821.13,569.07
+"ORD-1846","2027-04-26","Sneha","South","Other Categories",2186.75,722.74
+"ORD-1847","2027-04-27","Amit Soni","North","Electronics",4545.84,799.96
+"ORD-1848","2027-04-28","Sneha","South","Furniture",611.22,346.93
+"ORD-1849","2027-04-29","Vikram","South","Other Categories",1959.82,423.48
+"ORD-1850","2027-04-30","Rahul Dev","South","Other Categories",2385.25,575.74
+"ORD-1851","2027-05-01","Sneha","North","Other Categories",4528.60,577.91
+"ORD-1852","2027-05-02","Divyansh","West","Furniture",4387.04,853.05
+"ORD-1853","2027-05-03","Amit Soni","South","Other Categories",1605.52,996.10
+"ORD-1854","2027-05-04","Amit Soni","East","Electronics",122.82,454.28
+"ORD-1855","2027-05-05","Amit Soni","West","Other Categories",2148.19,593.77
+"ORD-1856","2027-05-06","Sneha","West","Electronics",3619.54,267.78
+"ORD-1857","2027-05-07","Rahul Dev","East","Other Categories",3877.86,896.90
+"ORD-1858","2027-05-08","Divyansh","West","Furniture",1452.85,950.31
+"ORD-1859","2027-05-09","Sneha","West","Other Categories",4251.92,389.09
+"ORD-1860","2027-05-10","Sneha","West","Other Categories",3069.32,144.17
+"ORD-1861","2027-05-11","Sneha","North","Other Categories",2095.06,270.19
+"ORD-1862","2027-05-12","Divyansh","East","Other Categories",3584.04,606.30
+"ORD-1863","2027-05-13","Sneha","East","Furniture",2500.60,542.65
+"ORD-1864","2027-05-14","Divyansh","East","Electronics",3790.06,746.36
+"ORD-1865","2027-05-15","Sneha","South","Other Categories",1452.59,476.36
+"ORD-1866","2027-05-16","Sneha","West","Other Categories",366.54,99.07
+"ORD-1867","2027-05-17","Rahul Dev","East","Furniture",4918.01,472.21
+"ORD-1868","2027-05-18","Rahul Dev","South","Furniture",1981.43,175.21
+"ORD-1869","2027-05-19","Rahul Dev","East","Electronics",2585.75,927.77
+"ORD-1870","2027-05-20","Amit Soni","North","Other Categories",3298.29,723.84
+"ORD-1871","2027-05-21","Divyansh","East","Other Categories",2347.16,559.97
+"ORD-1872","2027-05-22","Vikram","East","Furniture",3878.67,906.49
+"ORD-1873","2027-05-23","Divyansh","West","Furniture",3414.29,258.03
+"ORD-1874","2027-05-24","Vikram","South","Furniture",3846.14,996.01
+"ORD-1875","2027-05-25","Sneha","South","Furniture",2729.33,992.55
+"ORD-1876","2027-05-26","Divyansh","East","Other Categories",5036.67,244.15
+"ORD-1877","2027-05-27","Sneha","South","Other Categories",2334.83,694.08
+"ORD-1878","2027-05-28","Divyansh","East","Furniture",2617.69,424.87
+"ORD-1879","2027-05-29","Divyansh","South","Other Categories",4284.20,585.42
+"ORD-1880","2027-05-30","Sneha","East","Furniture",501.43,449.55
+"ORD-1881","2027-05-31","Divyansh","East","Other Categories",1212.12,933.62
+"ORD-1882","2027-06-01","Divyansh","North","Other Categories",4860.45,88.54
+"ORD-1883","2027-06-02","Sneha","South","Other Categories",2960.16,184.75
+"ORD-1884","2027-06-03","Rahul Dev","South","Other Categories",1602.27,560.46
+"ORD-1885","2027-06-04","Sneha","East","Furniture",467.20,868.11
+"ORD-1886","2027-06-05","Divyansh","South","Other Categories",2463.68,199.96
+"ORD-1887","2027-06-06","Amit Soni","South","Furniture",5028.23,555.03
+"ORD-1888","2027-06-07","Rahul Dev","East","Other Categories",4043.10,447.89
+"ORD-1889","2027-06-08","Amit Soni","East","Furniture",1835.34,313.56
+"ORD-1890","2027-06-09","Sneha","East","Electronics",1322.37,440.53
+"ORD-1891","2027-06-10","Amit Soni","East","Other Categories",1624.38,277.82
+"ORD-1892","2027-06-11","Amit Soni","East","Other Categories",1104.01,580.53
+"ORD-1893","2027-06-12","Divyansh","West","Furniture",2843.23,879.41
+"ORD-1894","2027-06-13","Rahul Dev","East","Furniture",4703.18,453.06
+"ORD-1895","2027-06-14","Divyansh","West","Other Categories",2300.80,828.60
+"ORD-1896","2027-06-15","Rahul Dev","East","Furniture",1728.50,108.68
+"ORD-1897","2027-06-16","Rahul Dev","East","Furniture",1930.48,353.91
+"ORD-1898","2027-06-17","Divyansh","South","Furniture",3598.53,248.37
+"ORD-1899","2027-06-18","Divyansh","South","Other Categories",3115.13,957.31
+"ORD-1900","2027-06-19","Amit Soni","East","Electronics",1069.04,133.17
+"ORD-1901","2027-06-20","Rahul Dev","East","Furniture",1664.32,942.90
+"ORD-1902","2027-06-21","Amit Soni","North","Other Categories",3440.15,114.95
+"ORD-1903","2027-06-22","Rahul Dev","North","Other Categories",1154.07,352.78
+"ORD-1904","2027-06-23","Rahul Dev","South","Furniture",2372.71,90.95
+"ORD-1905","2027-06-24","Rahul Dev","East","Other Categories",618.62,611.45
+"ORD-1906","2027-06-25","Vikram","East","Electronics",1827.23,71.72
+"ORD-1907","2027-06-26","Rahul Dev","East","Other Categories",4385.76,607.79
+"ORD-1908","2027-06-27","Rahul Dev","South","Electronics",2037.57,708.39
+"ORD-1909","2027-06-28","Divyansh","West","Furniture",1481.81,943.83
+"ORD-1910","2027-06-29","Rahul Dev","South","Other Categories",1998.96,563.15
+"ORD-1911","2027-06-30","Rahul Dev","East","Other Categories",3465.51,240.17
+"ORD-1912","2027-07-01","Rahul Dev","East","Furniture",4880.76,342.18
+"ORD-1913","2027-07-02","Divyansh","South","Furniture",1980.24,108.53
+"ORD-1914","2027-07-03","Divyansh","North","Other Categories",3928.47,77.60
+"ORD-1915","2027-07-04","Sneha","East","Electronics",3446.12,85.95
+"ORD-1916","2027-07-05","Vikram","South","Furniture",4280.03,84.80
+"ORD-1917","2027-07-06","Divyansh","East","Furniture",1448.58,755.11
+"ORD-1918","2027-07-07","Sneha","West","Other Categories",302.90,215.58
+"ORD-1919","2027-07-08","Vikram","East","Electronics",1263.75,925.02
+"ORD-1920","2027-07-09","Rahul Dev","North","Other Categories",4576.85,827.18
+"ORD-1921","2027-07-10","Divyansh","North","Electronics",1236.59,960.89
+"ORD-1922","2027-07-11","Sneha","North","Other Categories",3712.77,380.78
+"ORD-1923","2027-07-12","Divyansh","West","Electronics",3415.33,315.31
+"ORD-1924","2027-07-13","Rahul Dev","South","Electronics",3879.57,939.38
+"ORD-1925","2027-07-14","Divyansh","South","Other Categories",3538.66,860.85
+"ORD-1926","2027-07-15","Divyansh","East","Other Categories",3558.57,952.32
+"ORD-1927","2027-07-16","Divyansh","East","Furniture",979.68,850.20
+"ORD-1928","2027-07-17","Rahul Dev","East","Other Categories",3086.76,144.64
+"ORD-1929","2027-07-18","Divyansh","West","Other Categories",4650.77,95.24
+"ORD-1930","2027-07-19","Rahul Dev","East","Furniture",3926.49,393.58
+"ORD-1931","2027-07-20","Vikram","North","Furniture",236.17,619.77
+"ORD-1932","2027-07-21","Divyansh","South","Other Categories",3331.12,398.43
+"ORD-1933","2027-07-22","Sneha","South","Other Categories",4742.60,584.85
+"ORD-1934","2027-07-23","Divyansh","South","Other Categories",2946.15,205.42
+"ORD-1935","2027-07-24","Divyansh","East","Electronics",1899.35,569.20
+"ORD-1936","2027-07-25","Rahul Dev","East","Electronics",2956.00,499.77
+"ORD-1937","2027-07-26","Rahul Dev","South","Other Categories",2059.10,239.94
+"ORD-1938","2027-07-27","Sneha","East","Other Categories",3835.63,788.15
+"ORD-1939","2027-07-28","Rahul Dev","West","Other Categories",3544.29,956.63
+"ORD-1940","2027-07-29","Rahul Dev","North","Other Categories",549.87,732.94
+"ORD-1941","2027-07-30","Rahul Dev","North","Furniture",858.74,181.51
+"ORD-1942","2027-07-31","Amit Soni","West","Other Categories",1192.97,975.25
+"ORD-1943","2027-08-01","Rahul Dev","West","Other Categories",1486.23,672.84
+"ORD-1944","2027-08-02","Amit Soni","East","Electronics",4500.04,272.51
+"ORD-1945","2027-08-03","Sneha","East","Other Categories",1551.81,935.53
+"ORD-1946","2027-08-04","Rahul Dev","South","Furniture",4654.43,325.37
+"ORD-1947","2027-08-05","Divyansh","East","Other Categories",3281.27,850.12
+"ORD-1948","2027-08-06","Divyansh","East","Furniture",1294.63,384.81
+"ORD-1949","2027-08-07","Rahul Dev","North","Electronics",886.11,453.17
+"ORD-1950","2027-08-08","Divyansh","East","Other Categories",3601.51,491.51
+"ORD-1951","2027-08-09","Divyansh","East","Furniture",4369.35,223.67
+"ORD-1952","2027-08-10","Divyansh","West","Other Categories",4984.96,714.05
+"ORD-1953","2027-08-11","Amit Soni","South","Electronics",4454.66,437.44
+"ORD-1954","2027-08-12","Sneha","East","Electronics",975.79,187.38
+"ORD-1955","2027-08-13","Amit Soni","East","Electronics",3814.34,586.33
+"ORD-1956","2027-08-14","Amit Soni","West","Other Categories",1836.65,782.26
+"ORD-1957","2027-08-15","Rahul Dev","South","Other Categories",4265.21,686.70
+"ORD-1958","2027-08-16","Rahul Dev","East","Other Categories",259.44,212.14
+"ORD-1959","2027-08-17","Rahul Dev","South","Other Categories",3196.91,920.33
+"ORD-1960","2027-08-18","Rahul Dev","East","Furniture",3144.78,614.10
+"ORD-1961","2027-08-19","Divyansh","East","Other Categories",2811.77,666.67
+"ORD-1962","2027-08-20","Rahul Dev","South","Electronics",292.62,744.84
+"ORD-1963","2027-08-21","Divyansh","East","Other Categories",2737.55,83.18
+"ORD-1964","2027-08-22","Sneha","East","Other Categories",457.02,698.77
+"ORD-1965","2027-08-23","Vikram","North","Other Categories",2717.13,32.44
+"ORD-1966","2027-08-24","Rahul Dev","North","Electronics",1350.92,897.94
+"ORD-1967","2027-08-25","Sneha","West","Furniture",3606.02,773.96
+"ORD-1968","2027-08-26","Sneha","North","Other Categories",2897.11,97.84
+"ORD-1969","2027-08-27","Rahul Dev","South","Other Categories",2787.73,386.16
+"ORD-1970","2027-08-28","Rahul Dev","North","Other Categories",2743.33,417.29
+"ORD-1971","2027-08-29","Rahul Dev","South","Electronics",2912.93,904.74
+"ORD-1972","2027-08-30","Sneha","West","Other Categories",1397.03,293.59
+"ORD-1973","2027-08-31","Amit Soni","East","Other Categories",287.81,428.24
+"ORD-1974","2027-09-01","Rahul Dev","North","Electronics",3199.90,628.29
+"ORD-1975","2027-09-02","Divyansh","North","Other Categories",4725.90,487.01
+"ORD-1976","2027-09-03","Rahul Dev","North","Other Categories",4670.04,512.83
+"ORD-1977","2027-09-04","Rahul Dev","East","Other Categories",3868.13,931.48
+"ORD-1978","2027-09-05","Rahul Dev","West","Furniture",1832.85,298.88
+"ORD-1979","2027-09-06","Divyansh","East","Furniture",3278.07,511.37
+"ORD-1980","2027-09-07","Divyansh","South","Furniture",2111.14,93.66
+"ORD-1981","2027-09-08","Divyansh","East","Other Categories",555.99,425.74
+"ORD-1982","2027-09-09","Divyansh","South","Furniture",158.41,755.44
+"ORD-1983","2027-09-10","Sneha","South","Electronics",1222.11,370.41
+"ORD-1984","2027-09-11","Rahul Dev","East","Electronics",4363.58,13.16
+"ORD-1985","2027-09-12","Divyansh","East","Furniture",1430.63,479.62
+"ORD-1986","2027-09-13","Divyansh","East","Other Categories",1479.51,154.77
+"ORD-1987","2027-09-14","Sneha","East","Other Categories",351.40,1004.90
+"ORD-1988","2027-09-15","Sneha","West","Other Categories",560.20,317.21
+"ORD-1989","2027-09-16","Divyansh","South","Other Categories",1340.18,635.21
+"ORD-1990","2027-09-17","Vikram","East","Furniture",3751.92,855.76
+"ORD-1991","2027-09-18","Sneha","West","Other Categories",1330.04,927.47
+"ORD-1992","2027-09-19","Sneha","East","Furniture",4567.33,746.84
+"ORD-1993","2027-09-20","Divyansh","West","Furniture",3160.87,85.42
+"ORD-1994","2027-09-21","Rahul Dev","East","Electronics",1099.91,68.26
+"ORD-1995","2027-09-22","Rahul Dev","East","Other Categories",2086.92,674.14
+"ORD-1996","2027-09-23","Rahul Dev","South","Electronics",1901.00,433.37
+"ORD-1997","2027-09-24","Divyansh","East","Other Categories",3728.23,401.06
+"ORD-1998","2027-09-25","Rahul Dev","East","Other Categories",3148.38,478.47
+"ORD-1999","2027-09-26","Rahul Dev","South","Furniture",805.91,358.84
+"ORD-2000","2027-09-27","Vikram","South","Other Categories",580.30,380.68
